@@ -1,0 +1,18 @@
+body {
+    background-color: peachpuff;
+}
+p {
+    color: purple;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+ul {
+    color: red;
+    font-size: larger;
+    font-family: Minecraft;
+    background-color: yellow;
+}
+a {
+    color: purple;
+}

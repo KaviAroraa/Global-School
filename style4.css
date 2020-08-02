@@ -1,0 +1,18 @@
+body {
+    background-color: gold;
+}
+p {
+    color: palevioletred;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+ul {
+    color: blue;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: lightseagreen;
+}
+a {
+    color: palevioletred;
+}
